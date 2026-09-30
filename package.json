@@ -1,0 +1,12 @@
+{
+  "name": "claudesonnet55-physics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A standalone 2D physics playground for GitHub Pages",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
